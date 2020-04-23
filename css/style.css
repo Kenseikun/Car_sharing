@@ -1,0 +1,20 @@
+/* font-family: 'Nunito Sans', sans-serif;
+font-family: 'Open Sans', sans-serif; */
+:root {
+    --col-main: #ff0000;
+    --col-second: #28272C;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: font-family: 'Open Sans', sans-serif;
+}
+
+.container {
+    max-width: 1080px;
+    margin: 0 auto;
+}
