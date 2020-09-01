@@ -413,8 +413,7 @@ body {
 /* footer */
 
 .footer {
-    /* width: 100vw; */
-    height: 232px;
+    height: 220px;
     background-color: #28272C;
 }
 
@@ -427,6 +426,23 @@ body {
     border: 2px solid royalblue;
 }
 
+.footer_logo {
+    display: flex;
+
+    
+    border: 1px solid red;
+}
+
 .footer_logo img {
-    margin-top: 40px
+    margin-top: 40px;
+    text-decoration: none;
+}
+
+.footer_logo a{
+    text-decoration: none;
+}
+
+.footer_logo a p {
+    color: white;
+    text-transform: uppercase;
 }
