@@ -5,6 +5,8 @@
 ## Technology
 <img src="images/jsTech.png" height="100">
 
+### !DISPLAY ONLY!
+
 ## Link Example
 
 [Click to check this project...](https://kenseikun.github.io/Car_sharing/)
